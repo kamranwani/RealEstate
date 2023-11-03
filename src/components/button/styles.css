@@ -1,0 +1,7 @@
+button {
+  border-radius: 2rem;
+  border: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
